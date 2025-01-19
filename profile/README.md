@@ -1,4 +1,4 @@
-![GitHub Header](banner.png)
+![GitHub Header](images/banner.png)
 
 <h1 align="center">Hola a todos!<img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="30px">, Somos Flutter Piura</h1>
 <h3 align="center">Comunidad de desarrolladores de la Región Piura :) </h3>
